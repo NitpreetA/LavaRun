@@ -29,7 +29,7 @@ C# and uses files for file storing.
 
 1) You can download the code
 2) go into the bin/Bedub/net5.0 and run the .exe
-3) You can also reset the leaderboard by deleting th file.
+3) You can also reset the leaderboard by deleting the file.
 
 
 ## Authors
